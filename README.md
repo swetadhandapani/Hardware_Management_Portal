@@ -1,5 +1,4 @@
 # my-node-project  
-Backend
 User and Role Management:
 
 Implemented user authentication and authorization with role-based access control (roles: user, employee, admin) managed within a single User collection.
