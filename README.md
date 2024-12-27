@@ -3,7 +3,7 @@ User and Role Management:
 
 Implemented user authentication and authorization with role-based access control (roles: user, employee, admin) managed within a single User collection.
 Created middleware functions to restrict certain routes and functionalities based on user roles, ensuring data privacy and functionality restrictions as per user role.
-API Endpoints for Core Features:
+API Endpoints for Core Features:::
 
 Defined endpoints for handling requests related to hardware repair and maintenance, enabling users to submit, update, and view requests.
 Set up admin and employee endpoints to manage these requests, with employees being able to view assigned tasks and admins having control over request assignments and user management.
