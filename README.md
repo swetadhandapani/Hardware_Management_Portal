@@ -26,7 +26,7 @@ MERN Stack, Node.js, React.js, MongoDB, Express.js.
 
 Here\'s the step-by-step process:
 
-**[1. User Workflow:]{.underline}**
+**[1. User Workflow:]**
 
 The User role is focused on submitting repair requests, viewing request
 histories, and providing feedback.
@@ -67,7 +67,7 @@ Fig 1. Registration Page
 
 Fig 2. Repair Request Page
 
-**[2. Employee Workflow:]{.underline}**
+**[2. Employee Workflow:]**
 
 The Employee role manages assigned repair requests.
 
@@ -95,7 +95,7 @@ The Employee role manages assigned repair requests.
 
 Fig 3. Assigned Request Page
 
-**[3. Admin Workflow:]{.underline}**
+**[3. Admin Workflow:]**
 
 The Admin role oversees the entire system, managing users, requests, and
 feedback.
@@ -137,7 +137,7 @@ Fig 4. Assign Repair Request Page
 
 Fig 5. Employee List
 
-**[4. Authentication Workflow (For All Roles):]{.underline}**
+**[4. Authentication Workflow (For All Roles):]**
 
 **1. Token-Based Authentication:**
 
@@ -161,7 +161,7 @@ Fig 5. Employee List
 
 Fig 6. Role-Based Access Control from MongoDB
 
-**[5. Request Handling Workflow:]{.underline}**
+**[5. Request Handling Workflow:]**
 
 **1. Request Creation:**
 
@@ -181,7 +181,7 @@ collection with an initial status of \"pending.\"
 -   Status updates are reflected in both the employee and user
     dashboards.
 
-**[6. Feedback Handling Workflow:]{.underline}**
+**[6. Feedback Handling Workflow:]**
 
 **1. Feedback Submission:**
 
@@ -197,7 +197,7 @@ like user ID, request ID, and comments.
 
 \- Admins review feedback to identify areas of improvement.
 
-**[7. Summary of Workflow Flowchart:]{.underline}**
+**[7. Summary of Workflow Flowchart:]**
 
 **1. User:**
 
