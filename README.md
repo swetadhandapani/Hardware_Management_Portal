@@ -6,9 +6,7 @@
 
 The MERN Stack Hardware Management Portal is a full-stack web
 application designed to efficiently manage hardware repair and service
-requests. Leveraging the MERN (MongoDB,
-
-Express.js, React.js, Node.js) stack, this portal provides a seamless
+requests. Leveraging the MERN (MongoDB,Express.js, React.js, Node.js) stack, this portal provides a seamless
 interface for users, employees, and administrators to interact with the
 system.
 
